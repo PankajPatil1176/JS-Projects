@@ -28,3 +28,8 @@ Above : This project is the small game on ROCK-PAPER-SCISSOR where you play agai
 <b>Number Guessing -<b> https://pankajpatil1176.github.io/Number-Guessing-game/
 <br>
 Above : This small project is regarding the number guessing game, where computer selects the random number from 1 to 100 where you have to assum the correct number.
+<br>
+
+<b> Currency Converter -<b> https://pankajpatil1176.github.io/Currency-Converted/
+<br>
+Above : This project tells us the curent currency rate of any country which we want to compare it with.
